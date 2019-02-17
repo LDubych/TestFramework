@@ -1,7 +1,9 @@
 # folders #
 reports/
 .idea/
-.git/ 
+.git/
+mvnrepo
+allure-results
 
 # Compiled source #
 *.class
