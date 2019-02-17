@@ -1,0 +1,7 @@
+# folders #
+reports/
+.idea/
+.git/ 
+
+# Compiled source #
+*.class
